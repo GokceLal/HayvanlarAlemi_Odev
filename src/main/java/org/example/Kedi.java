@@ -1,10 +1,10 @@
 package org.example;
 
 public class Kedi extends Hayvan {
-    String isim;
-    String tuyRengi;
-    int age;
-    boolean vahsi;
+    private String isim;
+    private String tuyRengi;
+    private int age;
+    private boolean vahsi;
 
 
 
@@ -72,6 +72,7 @@ public class Kedi extends Hayvan {
                 '}';
     }
 }
+
 
 
 

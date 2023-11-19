@@ -1,8 +1,8 @@
 package org.example;
 
 public class Balik extends Hayvan{
-    String pulKalinligi;
-    String solungacGenisligi;
+    private String pulKalinligi;
+    private String solungacGenisligi;
 
 
 
@@ -27,7 +27,6 @@ public class Balik extends Hayvan{
         this.solungacGenisligi = solungacGenisligi;
         this.pulKalinligi = pulKalinligi;
     }
-
 
     @Override
     public String toString() {

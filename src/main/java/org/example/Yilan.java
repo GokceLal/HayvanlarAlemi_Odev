@@ -1,9 +1,9 @@
 package org.example;
 
 public class Yilan extends Hayvan{
-    String deriDurumu;
-    int dilUzunlugu;
-    boolean deriSoyulma;
+    private String deriDurumu;
+    private int dilUzunlugu;
+    private boolean deriSoyulma;
 
 
 

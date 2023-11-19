@@ -1,8 +1,8 @@
 package org.example;
 
 public class Kus extends Hayvan{
-    int kanatUzunlugu;
-    String gagaSekli;
+     private int kanatUzunlugu;
+     private String gagaSekli;
 
 
 
